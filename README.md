@@ -1,6 +1,6 @@
 # ⌚ Time L&N ©
 
-For the Portuguese version, click [here](#🇧🇷-portuguese-version).
+For the Portuguese version, click [here](#🇧🇷-versao-em-portugues).
 
 Meet **Time L&N** — your perfect ally to stay in control of time! Whether you’re counting down the days or tracking your favorite plans, Time L&N gets you ready for incredible trips, unforgettable dinners, key meetings, or even that friend’s birthday you always forget. With Time L&N, every important moment gets the attention it deserves!
 
