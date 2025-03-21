@@ -1,6 +1,10 @@
 # ⌚ Time L&N ©
 
+<<<<<<< HEAD
 For the Portuguese version, click [here](#🇧🇷-versao-em-portugues).
+=======
+For the Portuguese version, click [here](#versao-em-portugues).
+>>>>>>> ecaf5bbf (:globe_with_meridians: adjust language version)
 
 Meet **Time L&N** — your perfect ally to stay in control of time! Whether you’re counting down the days or tracking your favorite plans, Time L&N gets you ready for incredible trips, unforgettable dinners, key meetings, or even that friend’s birthday you always forget. With Time L&N, every important moment gets the attention it deserves!
 
@@ -31,9 +35,9 @@ All rights reserved [Nicolas Alves©](https://www.linkedin.com/in/nicolasdevback
 
 ---
 
-## 🇧🇷 - Versão em Português
+## <a id="versao-em-portugues"></a>🇧🇷 - Versão em Português
 
-**Time L&N**  
+**Time L&N**
 
 O **Time L&N** é o seu companheiro ideal para manter o controle do tempo! Seja para contar os dias ou acompanhar seus planos favoritos, ele te ajuda a se preparar para viagens incríveis, jantares memoráveis, reuniões essenciais ou até aquele aniversário de um amigo que sempre escapa da memória. Com o Time L&N, cada momento importante recebe o destaque que merece!
 
