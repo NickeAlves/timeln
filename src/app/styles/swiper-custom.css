@@ -1,0 +1,26 @@
+.swiper-button-next,
+.swiper-button-prev {
+  color: white;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: auto;
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  background-color: #22c55e;
+  border-radius: 60px;
+}
+
+.swiper-pagination-bullet {
+  background-color: white;
+  opacity: 0.5;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #22c55e;
+  opacity: 1;
+}
